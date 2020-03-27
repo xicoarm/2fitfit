@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca1c0ef1-8cd8-43f8-bb30-2f2d54d8ee79" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project" beforeDir="false" afterPath="$PROJECT_DIR$/project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/2fitfit" beforeDir="false" afterPath="$PROJECT_DIR$/project/2fitfit" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1ZdbscdP97IFQPRZJseZbyoVKHH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Areg\PhpstormProjects\untitled4" />
+      <recent name="C:\Users\Areg\PhpstormProjects\untitled4\resources\views" />
+      <recent name="C:\Users\Areg\PhpstormProjects\untitled4\public" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:products" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca1c0ef1-8cd8-43f8-bb30-2f2d54d8ee79" name="Default Changelist" comment="" />
+      <created>1585172125393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585172125393</updated>
+      <workItem from="1585172126778" duration="48677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="SHOW_ROOT_NAMES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2351" y="505" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585198859426">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2351" y="505" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1585198859426" />
+    <state x="1531" y="112" width="1753" height="1160" key="DiffContextDialog" timestamp="1585346404307">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1531" y="112" width="1753" height="1160" key="DiffContextDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1585346404307" />
+    <state width="1602" height="399" key="GridCell.Tab.0.bottom" timestamp="1585347572051">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1602" height="399" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1585347572051" />
+    <state width="1602" height="399" key="GridCell.Tab.0.center" timestamp="1585347572051">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1602" height="399" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1585347572051" />
+    <state width="1602" height="399" key="GridCell.Tab.0.left" timestamp="1585347572050">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1602" height="399" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1585347572050" />
+    <state width="1602" height="399" key="GridCell.Tab.0.right" timestamp="1585347572051">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1602" height="399" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1585347572051" />
+    <state x="2304" y="571" width="331" height="174" key="NewPhpFileDialog" timestamp="1585273563004">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2304" y="571" width="331" height="174" key="NewPhpFileDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1585273563004" />
+    <state x="2222" y="425" width="786" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1585334195283">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2222" y="425" width="786" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1585334195283" />
+    <state x="2166" y="477" width="607" height="526" key="find.popup" timestamp="1585255323053">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2166" y="477" width="607" height="526" key="find.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1585255323053" />
+  </component>
+</project>
